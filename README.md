@@ -7,11 +7,3 @@ You can get a copy by doing:
     git clone https://github.com/LiaungYip/plain-blog-example.git --recursive
 
 Where the `--recursive` option makes git download the `plain-blog` theme for you automatically. Neat!
-
-----
-
-## Screenshots
-
-![](/images/tn.png)
-
-![](/images/screenshot.png)

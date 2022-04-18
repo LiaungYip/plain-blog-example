@@ -1,3 +1,7 @@
+Note: This repository is deprecated. Instead, see `exampleSite` included within https://github.com/LiaungYip/plain-blog .
+
+----
+
 This is an example site for the [`plain-blog` Hugo theme](https://github.com/LiaungYip/plain-blog).
 
 You can use it to see what the `config.toml` should look like, or use it as the start of your very own `plain-blog` site!
